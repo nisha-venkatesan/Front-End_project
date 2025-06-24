@@ -5,8 +5,11 @@ A fully responsive front-end **music player website** built using **Vite**, **HT
 ---
 
 ## 🚀 Live Demo
-[🔗 Click to View Website](https://your-firebase-url.web.app)  
-> _Replace this link with your real Firebase live URL._
+🖥️ This project is currently running locally at `http://localhost:5175/`  
+It has not been deployed to a live server yet.
+
+> Hosting coming soon using Firebase or GitHub Pages.
+
 
 ---
 
