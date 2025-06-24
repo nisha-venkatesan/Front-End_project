@@ -1,6 +1,6 @@
 # 🎵 Live Music Web App
 
-A fully responsive front-end **music player website** built using **Vite**, **HTML/CSS**, and **JavaScript** — deployed using **Firebase Hosting**. This project was developed during my **internship at Q-Spiders**, held at **Panimalar Engineering College** (Feb 2024 – April 2024).
+A fully responsive front-end **music player website** built using **Vite**, **HTML/CSS**, and **JavaScript** — deployed using **Firebase Hosting**. This project was developed during my **internship at Q-Spiders**, held at **Panimalar Engineering College** (Feb 2025 – April 2025).
 
 ---
 
