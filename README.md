@@ -1,48 +1,47 @@
-🎵 LiveMusic – Music Album Landing Page 🎧
-LiveMusic is a responsive and animated music album landing page built using React.js, Firebase, and Framer Motion. It showcases music albums dynamically with real-time data fetched from Firestore.
+# 🎵 Live Music Web App
 
-🚀 Features
-🎨 Smooth UI with Framer Motion animations
+A fully responsive front-end **music player website** built using **Vite**, **HTML/CSS**, and **JavaScript** — deployed using **Firebase Hosting**. This project was developed during my **internship at Q-Spiders**, held at **Panimalar Engineering College** (Feb 2024 – April 2024).
 
-🔥 Live album data from Firebase Firestore
+---
 
-🔐 User Authentication using Firebase Auth (email/password or provider-based)
+## 🚀 Live Demo
+[🔗 Click to View Website](https://your-firebase-url.web.app)  
+> _Replace this link with your real Firebase live URL._
 
-📱 Fully responsive layout for mobile and desktop
+---
 
-📦 Clean and organized React component structure
+## 💼 Internship Info
 
-🛠 Tech Stack
-React.js
+- 🏢 **Company**: Q-Spiders
+- 🎓 **College**: Panimalar Engineering College
+- 📅 **Duration**: Feb 2024 – April 2024
+- 📌 **Role**: Front-End Intern
+- 🔧 **Project**: Live Music Player Website
 
-Vite
+---
 
-Firebase (Auth + Firestore)
+## ✨ Features
 
-Framer Motion
+- 🎶 Play, pause, and control music
+- 🎧 Stylish and modern UI
+- 📱 Responsive for all screen sizes
+- ⚡ Fast performance via **Vite**
+- ☁ Deployed on **Firebase Hosting**
 
-CSS Modules / Tailwind CSS (based on your setup)
+---
 
-📂 Folder Structure
-css
-Copy
-Edit
-src/
-├── components/
-│   └── AlbumLandingContent.jsx
-├── backend/
-│   └── firebase.js
-├── App.jsx
-└── index.js
-🔧 Setup Instructions
-bash
-Copy
-Edit
-git clone https://github.com/your-username/live-music.git
-cd live-music
-npm install
-npm run dev
-🔗 Live Preview
-Since you're using localhost, if deployed, you can change this:
+## 🔧 Technologies Used
 
-🌍 Live: your-website-link
+| Technology     | Description                 |
+|----------------|------------------------------|
+| Vite           | Build tool for front-end ⚡   |
+| HTML / CSS     | Structure and styling 🎨      |
+| JavaScript     | App logic and interaction ⚙️ |
+| Firebase       | Web hosting ☁                |
+| VS Code        | Code editor 💻               |
+
+---
+
+## 📁 Folder Structure
+
+
