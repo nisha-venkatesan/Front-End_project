@@ -6,9 +6,7 @@ A fully responsive front-end **music player website** built using **Vite**, **HT
 
 ## 🚀 Live Demo
 🖥️ This project is currently running locally at `http://localhost:5175/`  
-It has not been deployed to a live server yet.
-
-> Hosting coming soon using Firebase or GitHub Pages.
+✔  Hosting URL: https://live-music-nisha.web.app
 
 
 ---
