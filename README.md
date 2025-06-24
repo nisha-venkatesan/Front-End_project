@@ -42,6 +42,6 @@ A fully responsive front-end **music player website** built using **Vite**, **HT
 
 ---
 
-## 📁 Folder Structure
+
 
 
